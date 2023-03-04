@@ -1,8 +1,4 @@
-# Selenium_Booking
-Selenium for Booking.com
-
-[Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)
-](https://www.youtube.com/watch?v=j7VZsCCnptM)
+# Selenium for Booking.com
 
 OS: Windows
 
@@ -12,3 +8,8 @@ OS: Windows
 
 Notes: Booking.com web changes frequently, page's elements path change too.
 
+## Acknowledgments
+
+* [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+* [Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)
+](https://www.youtube.com/watch?v=j7VZsCCnptM)
