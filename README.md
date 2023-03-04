@@ -6,4 +6,9 @@ Selenium for Booking.com
 
 OS: Windows
 
-Notes: Booking.com web changes frequently, element path changes too.
+1. git clone
+2. pip install -r requirements.txt
+3. Run and Debug with VScode
+
+Notes: Booking.com web changes frequently, page's elements path change too.
+
