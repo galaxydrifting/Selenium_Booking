@@ -1,4 +1,4 @@
-# Scraping Booking.com with Selenium
+# Scrape Booking.com with Selenium
 
 OS: Windows
 
